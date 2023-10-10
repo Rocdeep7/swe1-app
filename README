@@ -1,1 +1,7 @@
-swe1-app
+## swe1-app
+
+This is the repository for Rakesh Raut's swe-app assignment.
+
+- To execute this locally, run `python manage.py runserver`
+- To execute on elastic beanstalk, run `eb deploy` but add the specific url to the ALLOWED_HOSTS in settings.py.
+
