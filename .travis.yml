@@ -27,4 +27,3 @@ deploy:
   bucket_name: "elasticbeanstalk-us-west-2-733181889942"
   on:
     all_branches: true
-
